@@ -1,36 +1,47 @@
-## Hi, I'm Ryoko 👋
+## 🌅 About Me
 
-夜明けと夕暮れのグラデーションが好きで、  
-「移ろいゆく美しさ」をテーマにしたWebアプリを開発しています。
+夜明けや夕暮れのグラデーションが好きで、  
+「移ろいゆく美しさ」をテーマにWebアプリを開発しています。
 
-生活の中にある小さな違和感や余白を、  
-技術で静かに形にしていくことを大切にしています。
+駅運営や業務改善の経験を活かし、  
+生活や仕事の中にある小さな違和感や余白を、  
+技術で静かに整えていくことを大切にしています。
 
----
+バックオフィス業務にも活かせるITスキルの習得と、  
+自走できる開発力の向上を継続中です。
 
-### 🌱 Personal Project
-**skyle**  
-空や時間の移ろいをテーマにしたWebアプリ  
+
+## 🌱 Personal Project
+
+### skyle  
+空や時間の移ろいをテーマにしたWebアプリ
+
 - Next.js / TypeScript
 - フロントエンド設計・実装
-- UXや世界観設計も含めた個人開発
+- UX設計・世界観設計を含む個人開発
 
-👉 URL（）
+👉 URL（ここにリンク）
 
----
 
-### 🛠 Tech Stack
-- Frontend: React, Next.js, TypeScript
-- Backend: Node.js, Express, Prisma
-- DB: PostgreSQL
-- Infra / Others: Docker, GitHub Actions, AWS (learning)
+## 🛠 Tech Stack
 
----
+**Frontend**  
+React / Next.js / TypeScript  
 
-### ✍️ Writing
-開発記録や学習ログを note にまとめています  
+**Backend**  
+Node.js / Express / Prisma  
+
+**Database**  
+PostgreSQL  
+
+**Infra / Others**  
+Docker / GitHub Actions / AWS（learning）
+
+
+## ✍️ Writing
+
+開発記録や学習ログを note にまとめています。  
 👉 https://note.com/ryoko0655
-
 ---
 
 リモート環境で、プロダクトに丁寧に向き合える開発を志向しています。
